@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm SABIR ILYASS</h1>
 <h3 align="center">A passionate computer science student at Télécom Saint-Etienne</h3>
+<img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gifcid=ecf05e47dqvc4lvpnypmfy3q35m2f2s1zas9ofnckxiza5q6&rid=giphy.gif&ct=g">
 
 - 🔭 I’m currently student at Télécom Saint-Etienne [https://www.telecom-st-etienne.fr/](https://www.telecom-st-etienne.fr/)
 
