@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently student at Télécom Saint-Etienne
 
-- 📝 I regularly write articles on [https://www.facebook.com/groups/mathsinformaticsphysics](https://www.facebook.com/groups/mathsinformaticsphysics)
+- 📝 I regularly write articles on [mathematics, informatics, and physics olympiad group](https://www.facebook.com/groups/mathsinformaticsphysics)
 
 - 💬 Ask me about **mathematics, physics, and computer science**
 
