@@ -2,7 +2,7 @@
 <h3 align="center">A passionate computer science student at Télécom Saint-Etienne</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/SABIR-ILYASS/SABIR-ILYASS/commit/15299f5e22116e9bdeee230d075baf4111ff1ba2">
 
-- 🔭 I’m currently student at Télécom Saint-Etienne [https://www.telecom-st-etienne.fr/](https://www.telecom-st-etienne.fr/)
+- 🔭 I’m currently student at [Télécom Saint-Etienne](https://www.telecom-st-etienne.fr/)
 
 - 📝 I regularly write articles on [https://www.facebook.com/groups/mathsinformaticsphysics](https://www.facebook.com/groups/mathsinformaticsphysics)
 
