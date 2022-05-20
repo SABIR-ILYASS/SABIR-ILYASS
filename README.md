@@ -6,7 +6,7 @@
 
 - 📝 I regularly write articles on [mathematics, informatics, and physics olympiad group](https://www.facebook.com/groups/mathsinformaticsphysics)
 
-- 💬 Ask me about **mathematics, physics, and computer science**
+- 💬 Ask me about **mathematics, physics, and computer science.**
 
 - 📫 How to reach me **ilyasssabir7@gmail.com**
 
