@@ -12,7 +12,7 @@
 
 - 📝 I regularly write articles on [Mathematics, Computer science and Physics Olympiad group](https://www.facebook.com/groups/mathsinformaticsphysics)
 
-- 💬 Ask me about **mathematics, physics, and computer science.**
+- 💬 Ask me about **mathematics, computer science and physics.**
 
 - 📫 How to reach me **ilyasssabir7@gmail.com**
 
