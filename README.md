@@ -28,3 +28,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sabir-ilyass&show_icons=true&locale=en" alt="sabir-ilyass" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sabir-ilyass&" alt="sabir-ilyass" /></p>
+
+<h3>The snake is eating my contribution graphic</h3>
+  <img src="https://github.com/SABIR-ILYASS/SABIR-ILYASS/blob/output/github-contribution-grid-snake.gif" alt="contributions_graph"/>
