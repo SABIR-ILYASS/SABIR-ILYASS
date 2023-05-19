@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm SABIR ILYASS</h1>
-<h3 align="center">A passionate computer science student at Télécom Saint-Etienne.</h3>
+<h3 align="center">A passionate computer science student.</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/SABIR-ILYASS/SABIR-ILYASS/blob/main/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabir-ilyass&label=Profile%20views&color=0e75b6&style=flat" alt="sabir-ilyass" /> </p>
 
-- 🔭 I’m currently working on [Télécom Saint-Etienne](https://www.telecom-st-etienne.fr/)
+- 🔭 I’m currently working on [Astek](https://astekgroup.fr/)
 
 - 🌱 I’m currently learning **Machine learning for Computer Vision and Natural Language Processing (NLP).**
 
