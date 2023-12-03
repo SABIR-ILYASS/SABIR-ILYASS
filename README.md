@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabir-ilyass&label=Profile%20views&color=0e75b6&style=flat" alt="sabir-ilyass" /> </p>
 
-- 🔭 I’m currently working on [Astek](https://astekgroup.fr/)
-
 - 🌱 I’m currently learning **Machine learning for Computer Vision and Natural Language Processing (NLP).**
 
 - 👨‍💻 All of my projects are available at [ilyass-sabir](https://dev-ilyass-sabir.pantheonsite.io)
