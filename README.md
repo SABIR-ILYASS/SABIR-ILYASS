@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SABIR ILYASS</h1>
-<h3 align="center">A passionate computer science student.</h3>
+<h3 align="center">Generalist engineer specialized in image processing and computer vision.</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/SABIR-ILYASS/SABIR-ILYASS/blob/main/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabir-ilyass&label=Profile%20views&color=0e75b6&style=flat" alt="sabir-ilyass" /> </p>
