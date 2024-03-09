@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Machine learning for Computer Vision and Natural Language Processing (NLP).**
 
-- 👨‍💻 All of my projects are available at [ilyass-sabir](https://dev-ilyass-sabir.pantheonsite.io)
+- 👨‍💻 All of my projects are available at [ilyass-sabir](https://sabir-ilyass.github.io)
 
 - 📝 I regularly write articles on [Mathematics, Computer science and Physics Olympiad group](https://www.facebook.com/groups/mathsinformaticsphysics)
 
