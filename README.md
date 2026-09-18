@@ -15,4 +15,4 @@
 </table>
 
 <h3>The snake is eating my contribution graphic</h3>
-<img src="https://raw.githubusercontent.com/SABIR-ILYASS/SABIR-ILYASS/output/github-contribution-grid-snake.svg" alt="contributions_graph"/>
+<img src="https://raw.githubusercontent.com/SABIR-ILYASS/SABIR-ILYASS/output/github-contribution-grid-snake.svg" alt="contributions_graph">
